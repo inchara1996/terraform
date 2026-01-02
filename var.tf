@@ -21,7 +21,7 @@ variable "a1" {
   default = "adding content to a1 file"
 }
 variable "a2" {
-  default = "adding content to a2 file"
+  default = "changing  content to a2 file"
 }
 variable "a3" {
   default = "adding content to a3 file"
